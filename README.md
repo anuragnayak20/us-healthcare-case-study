@@ -1,7 +1,5 @@
 # US Healthcare Case Study
 
---
-
 ## Problem Statement
 
 Analyzing the impact of demographics and admission types on healthcare costs and outcomes
